@@ -6,6 +6,11 @@ This project uses Machine Learning to predict a student's academic performance b
 
 ---
 
+# Live Demo
+https://studentperformanceprediction-hu9e8vtg53nt3y5zr3enc9.streamlit.app/
+
+------
+
 ## 🎯 Objectives
 
 - Predict student academic performance.
