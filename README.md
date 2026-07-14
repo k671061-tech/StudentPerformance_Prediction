@@ -45,14 +45,13 @@ This project uses Machine Learning to predict a student's academic performance b
 Dataset Name: **student_data.csv**
 
 Example Features:
-- Study Hours
-- Attendance
-- Previous Scores
-- Assignments Completed
-- Sleep Hours
-- Participation
-- Final Score (Target)
-
+- Age
+- Attendance Percentage
+- Math Score
+- Science Score
+- English Score
+- Overall Score
+  
 ---
 
 ## 🤖 Machine Learning Algorithm
@@ -103,6 +102,8 @@ Age = 18
 
 Attendance Percentage = 78%
 
+Math Score = 76 
+
 Science Score = 82
 
 English Score = 75
@@ -111,7 +112,7 @@ Overall Score = 78
 
 ### Output
 
-Predicted Final Grade = **C**
+Predicted Final Grade = **B**
 
 ---
 
