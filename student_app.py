@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Kavita Gupta\python\.venv\student_data (2).csv")
+df = pd.read_csv("student_data (2).csv")
 
 # Features and Target
 X = df.drop(["student_id", "final_grade"], axis=1)
