@@ -113,7 +113,7 @@ Science Score = 82
 
 English Score = 75
 
-Overall Score = 78
+Overall Score = 82
 
 ### Output
 
